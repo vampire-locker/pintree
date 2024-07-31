@@ -6,104 +6,6 @@
     "children": [
       {
         "type": "folder",
-        "addDate": 1712571994528,
-        "title": "人工智能",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1712049159000,
-            "title": "ChatGPT | OpenAI 旗下",
-            "icon": "https://logo.clearbit.com/chat.openai.com",
-            "url": "https://chat.openai.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1712049276000,
-            "title": "Kimi",
-            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-            "url": "https://kimi.moonshot.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1712049216000,
-            "title": "通义千问 | 阿里旗下",
-            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-            "url": "https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee13EgYnz"
-          },
-          {
-            "type": "link",
-            "addDate": 1712049242000,
-            "title": "文心一言 | 百度旗下",
-            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-            "url": "https://yiyan.baidu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1712049348000,
-            "title": "txyz | 论文AI",
-            "icon": "https://logo.clearbit.com/app.txyz.ai",
-            "url": "https://app.txyz.ai/"
-          },
-          {
-            "type": "link",
-            "addDate": 1712572895742,
-            "title": "Poe | Quora 旗下",
-            "icon": "https://logo.clearbit.com/poe.com",
-            "url": "https://poe.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1712572448332,
-            "title": "Claude",
-            "icon": "https://logo.clearbit.com/www.anthropic.com",
-            "url": "https://www.anthropic.com/claude"
-          },
-          {
-            "type": "link",
-            "addDate": 1712641930749,
-            "title": "Topaz Labs | AI 图像质量软件",
-            "icon": "https://logo.clearbit.com/www.topazlabs.com",
-            "url": "https://www.topazlabs.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1720418964774,
-            "title": "豆包 | 抖音旗下 AI 智能助手",
-            "icon": "https://logo.clearbit.com/www.doubao.com",
-            "url": "https://www.doubao.com/chat/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721719049763,
-            "title": "AskAITools | AI 工具搜索",
-            "icon": "https://logo.clearbit.com/askaitools.ai",
-            "url": "https://askaitools.ai/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721724347358,
-            "title": "三花 AI 导航合集",
-            "icon": "https://logo.clearbit.com/sanhua.himrr.com",
-            "url": "https://sanhua.himrr.com/?utm_source=gapis.money"
-          },
-          {
-            "type": "link",
-            "addDate": 1721732957209,
-            "title": "未来的你",
-            "icon": "https://logo.clearbit.com/futureyou.life",
-            "url": "https://futureyou.life/?utm_source=gapis.money"
-          },
-          {
-            "type": "link",
-            "addDate": 1721718915196,
-            "title": "AI图像增强器",
-            "icon": "https://logo.clearbit.com/mejorarimagen.org",
-            "url": "https://mejorarimagen.org/zh"
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1712572206790,
         "title": "实用工具",
         "children": [
@@ -333,6 +235,55 @@
           },
           {
             "type": "folder",
+            "addDate": 1721873763140,
+            "title": "编程工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1721873790146,
+                "title": "grep.app | code search",
+                "icon": "https://logo.clearbit.com/grep.app",
+                "url": "https://grep.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721890880435,
+                "title": "github.dev",
+                "icon": "https://logo.clearbit.com/github.dev",
+                "url": "https://github.dev/github/dev"
+              },
+              {
+                "type": "link",
+                "addDate": 1721890914663,
+                "title": "vscode.dev",
+                "icon": "https://logo.clearbit.com/vscode.dev",
+                "url": "https://vscode.dev/?vscode-lang=zh-cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1721904907262,
+                "title": "JS Bin",
+                "icon": "https://logo.clearbit.com/jsbin.com",
+                "url": "https://jsbin.com/?html,output"
+              },
+              {
+                "type": "link",
+                "addDate": 1721904840999,
+                "title": "JSFiddle - Code Playground",
+                "icon": "https://logo.clearbit.com/jsfiddle.net",
+                "url": "https://jsfiddle.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722327214144,
+                "title": "IT Tools | 开发者工具集",
+                "icon": "https://logo.clearbit.com/it-tools.tech",
+                "url": "https://it-tools.tech/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
             "addDate": 1721808554908,
             "title": "科学上网",
             "children": [
@@ -342,6 +293,13 @@
                 "title": "西游",
                 "icon": "https://logo.clearbit.com/sunwk.fun",
                 "url": "https://sunwk.fun/i/pay/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721819380346,
+                "title": "首页 — 速云梯",
+                "icon": "https://logo.clearbit.com/suyunti1.com",
+                "url": "https://suyunti1.com/user"
               }
             ]
           },
@@ -361,10 +319,17 @@
         "children": [
           {
             "type": "link",
-            "addDate": 1715238043008,
-            "title": "云盘资源",
-            "icon": "https://logo.clearbit.com/www.yunpanziyuan.xyz",
-            "url": "https://www.yunpanziyuan.xyz/"
+            "addDate": 1718850390326,
+            "title": "天莫云商城 - 数字权益影视会员",
+            "icon": "https://logo.clearbit.com/ospho.cn",
+            "url": "https://ospho.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721891588730,
+            "title": "网盘小站",
+            "icon": "https://logo.clearbit.com/a.sousou.pro",
+            "url": "https://a.sousou.pro/"
           },
           {
             "type": "link",
@@ -375,10 +340,45 @@
           },
           {
             "type": "link",
-            "addDate": 1718850390326,
-            "title": "天莫云商城 - 数字权益影视会员",
-            "icon": "https://logo.clearbit.com/ospho.cn",
-            "url": "https://ospho.cn/"
+            "addDate": 1721876123106,
+            "title": "SMS-Activate | 接码平台",
+            "icon": "https://logo.clearbit.com/sms-activate.io",
+            "url": "https://sms-activate.io/cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1721876220144,
+            "title": "MobileSMS.io | 接码平台 ",
+            "icon": "https://logo.clearbit.com/mobilesms.io",
+            "url": "https://mobilesms.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721892413073,
+            "title": "自助购卡商城",
+            "icon": "https://logo.clearbit.com/appsir.shop",
+            "url": "https://appsir.shop/"
+          },
+          {
+            "type": "link",
+            "addDate": 1715238043008,
+            "title": "云盘资源",
+            "icon": "https://logo.clearbit.com/www.yunpanziyuan.xyz",
+            "url": "https://www.yunpanziyuan.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721892797856,
+            "title": "SubHD",
+            "icon": "https://logo.clearbit.com/subhdtw.com",
+            "url": "https://subhdtw.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721892835337,
+            "title": "assrt.net | 字幕搜索",
+            "icon": "https://logo.clearbit.com/assrt.net",
+            "url": "https://assrt.net/"
           }
         ]
       },
@@ -388,18 +388,46 @@
         "title": "社区平台",
         "children": [
           {
-            "type": "link",
-            "addDate": 1718074581773,
-            "title": "小红书 - 你的生活指南",
-            "icon": "https://logo.clearbit.com/www.xiaohongshu.com",
-            "url": "https://www.xiaohongshu.com/explore"
+            "type": "folder",
+            "addDate": 1721901043970,
+            "title": "编程",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1721901070886,
+                "title": "稀土掘金",
+                "icon": "https://logo.clearbit.com/juejin.cn",
+                "url": "https://juejin.cn/"
+              }
+            ]
           },
           {
-            "type": "link",
-            "addDate": 1721814957808,
-            "title": "Quora",
-            "icon": "https://logo.clearbit.com/www.quora.com",
-            "url": "https://www.quora.com/"
+            "type": "folder",
+            "addDate": 1721901049780,
+            "title": "生活",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718074581773,
+                "title": "小红书 - 你的生活指南",
+                "icon": "https://logo.clearbit.com/www.xiaohongshu.com",
+                "url": "https://www.xiaohongshu.com/explore"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1721901056150,
+            "title": "知识",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1721814957808,
+                "title": "Quora",
+                "icon": "https://logo.clearbit.com/www.quora.com",
+                "url": "https://www.quora.com/"
+              }
+            ]
           }
         ]
       },
@@ -652,6 +680,13 @@
             "title": "信息差——独立开发者出海周刊",
             "icon": "https://logo.clearbit.com/gapis.money",
             "url": "https://gapis.money/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722238002467,
+            "title": "Dale 谈人工智能",
+            "icon": "https://logo.clearbit.com/daleonai.com",
+            "url": "https://daleonai.com/"
           }
         ]
       },
@@ -790,6 +825,181 @@
                     "url": "https://photobookdb.com/"
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1721979202570,
+            "title": "arXiv.org | 学术论文",
+            "icon": "https://logo.clearbit.com/arxiv.org",
+            "url": "https://arxiv.org/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1712572599048,
+        "title": "工作平台",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1716967416121,
+            "title": "小游戏",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1721800940231,
+                "title": "微信小游戏",
+                "icon": "https://logo.clearbit.com/developers.weixin.qq.com",
+                "url": "https://developers.weixin.qq.com/minigame/dev/api/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721801095958,
+                "title": "oppo小游戏",
+                "icon": "https://logo.clearbit.com/ie-activity-cn.heytapimage.com",
+                "url": "https://ie-activity-cn.heytapimage.com/static/minigame/CN/docs/index.html#/develop/games/rpk"
+              },
+              {
+                "type": "link",
+                "addDate": 1721800882219,
+                "title": "vivo小游戏",
+                "icon": "https://logo.clearbit.com/minigame.vivo.com.cn",
+                "url": "https://minigame.vivo.com.cn/documents/#/api/system/life-cycle"
+              },
+              {
+                "type": "link",
+                "addDate": 1721801012352,
+                "title": "华为快游戏（H5版本）",
+                "icon": "https://logo.clearbit.com/developer.huawei.com",
+                "url": "https://developer.huawei.com/consumer/cn/doc/quickgame-develop-h5-game"
+              },
+              {
+                "type": "link",
+                "addDate": 1721801046230,
+                "title": "小米小游戏联运SDK",
+                "icon": "https://logo.clearbit.com/dev.mi.com",
+                "url": "https://dev.mi.com/distribute/doc/details?pId=1109"
+              },
+              {
+                "type": "link",
+                "addDate": 1721801064898,
+                "title": "小米小游戏广告SDK",
+                "icon": "https://logo.clearbit.com/dev.mi.com",
+                "url": "https://dev.mi.com/distribute/doc/details?pId=1102"
+              },
+              {
+                "type": "link",
+                "addDate": 1721800910874,
+                "title": "抖音小游戏",
+                "icon": "https://logo.clearbit.com/developer.open-douyin.com",
+                "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/minigame/introduction"
+              },
+              {
+                "type": "link",
+                "addDate": 1721801412670,
+                "title": "抖音开放平台",
+                "icon": "https://logo.clearbit.com/developer.open-douyin.com",
+                "url": "https://developer.open-douyin.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721800816227,
+                "title": "支付宝小游戏",
+                "icon": "https://logo.clearbit.com/opendocs.alipay.com",
+                "url": "https://opendocs.alipay.com/mini-game/0a3usw?pathHash=79ae9347"
+              },
+              {
+                "type": "link",
+                "addDate": 1721801202174,
+                "title": "支付宝小游戏（语雀文档）",
+                "icon": "https://logo.clearbit.com/www.yuque.com",
+                "url": "https://www.yuque.com/zhifubaoxiaoyouxi-zromu/ts2ry9"
+              },
+              {
+                "type": "link",
+                "addDate": 1721801647096,
+                "title": "美团游戏开放平台",
+                "icon": "https://logo.clearbit.com/game.meituan.com",
+                "url": "https://game.meituan.com/#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721800970281,
+                "title": "小伙伴游戏",
+                "icon": "https://logo.clearbit.com/open.hgame.com",
+                "url": "https://open.hgame.com/doc/index?file=game/01_init.md#/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1721813349307,
+            "title": "光一",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1712574014691,
+                "title": "光一新后台（独立游戏）",
+                "icon": "https://logo.clearbit.com/okgame.ok-joy.com",
+                "url": "http://okgame.ok-joy.com/#/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1712574270318,
+                "title": "光一新后台（网游）",
+                "icon": "https://logo.clearbit.com/okgame-dept1.hnguangyi.cn",
+                "url": "http://okgame-dept1.hnguangyi.cn/#/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1712573775307,
+                "title": "光一瓦力",
+                "icon": "https://logo.clearbit.com/walle.ok-joy.com",
+                "url": "http://walle.ok-joy.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1721813378316,
+            "title": "速玩",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1717148176461,
+                "title": "速玩API",
+                "icon": "https://logo.clearbit.com/showdoc.gzsw168.com",
+                "url": "http://showdoc.gzsw168.com/web/#/75?page_id=933"
+              },
+              {
+                "type": "link",
+                "addDate": 1712573879681,
+                "title": "速玩后台",
+                "icon": "https://logo.clearbit.com/suwan.gzsw168.com",
+                "url": "https://suwan.gzsw168.com/#/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1695028193000,
+                "title": "堡垒机",
+                "icon": "https://logo.clearbit.com/192.168.108.12",
+                "url": "http://192.168.108.12/luna/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722330285676,
+                "title": "速玩瓦力",
+                "icon": "https://logo.clearbit.com/47.99.179.245",
+                "url": "http://47.99.179.245/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722407642277,
+                "title": "GitLab",
+                "icon": "https://logo.clearbit.com/47.99.179.245",
+                "url": "http://47.99.179.245:7002/"
               }
             ]
           }
@@ -988,6 +1198,202 @@
                 "url": "https://rendernetwork.com/"
               }
             ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721888901008,
+        "title": "个人邮箱",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1721888927754,
+            "title": "谷歌邮箱",
+            "icon": "https://logo.clearbit.com/mail.google.com",
+            "url": "https://mail.google.com/mail/u/0/?pli=1#inbox"
+          },
+          {
+            "type": "link",
+            "addDate": 1721890009478,
+            "title": "网易邮箱",
+            "icon": "https://logo.clearbit.com/hw.mail.163.com",
+            "url": "https://hw.mail.163.com/js6/main.jsp?sid=JNxHgAUUstVKDgEAyxUULrJrdXbbIPrn&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D"
+          },
+          {
+            "type": "link",
+            "addDate": 1721890031883,
+            "title": "QQ邮箱",
+            "icon": "https://logo.clearbit.com/mail.qq.com",
+            "url": "https://mail.qq.com/cgi-bin/frame_html?sid=96ELp4Q4yAytCjJU&r=550899ed1f8835bf69c31f0263fb2ac9&lang=zh"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1712571994528,
+        "title": "人工智能",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1721879741620,
+            "title": "学习",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1721879756648,
+                "title": "‌​⁣⁢⁢‌‬‍​‬​‬⁡⁡⁡‌⁡⁤​⁣​‬⁢⁡​‌﻿​⁤​⁡‬‌⁤​‬⁤⁡⁣​﻿⁡​‍⁤⁣⁢​‌‬通往 AGI 之路",
+                "icon": "https://logo.clearbit.com/waytoagi.feishu.cn",
+                "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e"
+              },
+              {
+                "type": "link",
+                "addDate": 1722326328732,
+                "title": "低门槛、光速上手的AI绘图教程",
+                "icon": "https://logo.clearbit.com/rh0w322x8w.feishu.cn",
+                "url": "https://rh0w322x8w.feishu.cn/wiki/ZqlQw8qvjiOrD1k2uovcGOQ1nNb?utm_source=gapis.money"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1722325789850,
+            "title": "工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1722325743736,
+                "title": "Midjourney 提示词翻译",
+                "icon": "https://logo.clearbit.com/ops.jk.cm",
+                "url": "https://ops.jk.cm/#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722331998940,
+                "title": "嵌入投影仪 | 高维数据可视化",
+                "icon": "https://logo.clearbit.com/projector.tensorflow.org",
+                "url": "https://projector.tensorflow.org/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1712049159000,
+            "title": "ChatGPT | OpenAI 旗下",
+            "icon": "https://logo.clearbit.com/chat.openai.com",
+            "url": "https://chat.openai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1712049276000,
+            "title": "Kimi",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1712049216000,
+            "title": "通义千问 | 阿里旗下",
+            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+            "url": "https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee13EgYnz"
+          },
+          {
+            "type": "link",
+            "addDate": 1712049242000,
+            "title": "文心一言 | 百度旗下",
+            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+            "url": "https://yiyan.baidu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1712049348000,
+            "title": "txyz | 论文AI",
+            "icon": "https://logo.clearbit.com/app.txyz.ai",
+            "url": "https://app.txyz.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1712572895742,
+            "title": "Poe | Quora 旗下",
+            "icon": "https://logo.clearbit.com/poe.com",
+            "url": "https://poe.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1712572448332,
+            "title": "Claude",
+            "icon": "https://logo.clearbit.com/www.anthropic.com",
+            "url": "https://www.anthropic.com/claude"
+          },
+          {
+            "type": "link",
+            "addDate": 1712641930749,
+            "title": "Topaz Labs | AI 图像质量软件",
+            "icon": "https://logo.clearbit.com/www.topazlabs.com",
+            "url": "https://www.topazlabs.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721719049763,
+            "title": "AskAITools | AI 工具搜索",
+            "icon": "https://logo.clearbit.com/askaitools.ai",
+            "url": "https://askaitools.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721724347358,
+            "title": "三花 AI 导航合集",
+            "icon": "https://logo.clearbit.com/sanhua.himrr.com",
+            "url": "https://sanhua.himrr.com/?utm_source=gapis.money"
+          },
+          {
+            "type": "link",
+            "addDate": 1721732957209,
+            "title": "未来的你",
+            "icon": "https://logo.clearbit.com/futureyou.life",
+            "url": "https://futureyou.life/?utm_source=gapis.money"
+          },
+          {
+            "type": "link",
+            "addDate": 1721718915196,
+            "title": "AI图像增强器",
+            "icon": "https://logo.clearbit.com/mejorarimagen.org",
+            "url": "https://mejorarimagen.org/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1720418964774,
+            "title": "豆包 | 字节旗下 AI 智能助手",
+            "icon": "https://logo.clearbit.com/www.doubao.com",
+            "url": "https://www.doubao.com/chat/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721893894339,
+            "title": "Coze | 字节旗下海外",
+            "icon": "https://logo.clearbit.com/www.coze.com",
+            "url": "https://www.coze.com/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1721893858509,
+            "title": "扣子 | 字节旗下国内",
+            "icon": "https://logo.clearbit.com/www.coze.cn",
+            "url": "https://www.coze.cn/space/7362756188582264859/bot"
+          },
+          {
+            "type": "link",
+            "addDate": 1722239421962,
+            "title": "Midjourney",
+            "icon": "https://logo.clearbit.com/docs.midjourney.com",
+            "url": "https://docs.midjourney.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722326846099,
+            "title": "Tensor.Art 吐司",
+            "icon": "https://logo.clearbit.com/tusiart.com",
+            "url": "https://tusiart.com/"
           }
         ]
       }
