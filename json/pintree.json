@@ -48,6 +48,13 @@
                 "title": "Shodan Search Engine",
                 "icon": "https://logo.clearbit.com/www.shodan.io",
                 "url": "https://www.shodan.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722506354847,
+                "title": "Reqable | 先进API生产力工具",
+                "icon": "https://logo.clearbit.com/reqable.com",
+                "url": "https://reqable.com/zh-CN/"
               }
             ]
           },
@@ -279,6 +286,27 @@
                 "title": "IT Tools | 开发者工具集",
                 "icon": "https://logo.clearbit.com/it-tools.tech",
                 "url": "https://it-tools.tech/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722590517788,
+                "title": "Glitch | 每个人都可以构建网络的友好社区",
+                "icon": "https://logo.clearbit.com/glitch.com",
+                "url": "https://glitch.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722590593668,
+                "title": "CodePen | 在线代码编辑器和前端 Web 开发人员社区",
+                "icon": "https://logo.clearbit.com/codepen.io",
+                "url": "https://codepen.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723000500339,
+                "title": "Apktool | Apktool",
+                "icon": "https://logo.clearbit.com/apktool.org",
+                "url": "https://apktool.org/"
               }
             ]
           },
@@ -300,6 +328,20 @@
                 "title": "首页 — 速云梯",
                 "icon": "https://logo.clearbit.com/suyunti1.com",
                 "url": "https://suyunti1.com/user"
+              },
+              {
+                "type": "link",
+                "addDate": 1722418681438,
+                "title": "爱机场",
+                "icon": "https://logo.clearbit.com/aijichang.org",
+                "url": "https://aijichang.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722418712389,
+                "title": "2024VPN",
+                "icon": "https://logo.clearbit.com/2024vpn.net",
+                "url": "https://2024vpn.net/"
               }
             ]
           },
@@ -379,6 +421,13 @@
             "title": "assrt.net | 字幕搜索",
             "icon": "https://logo.clearbit.com/assrt.net",
             "url": "https://assrt.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722418617830,
+            "title": "Shadowrocket | 购买",
+            "icon": "https://logo.clearbit.com/www.xiaohuojian8.com",
+            "url": "https://www.xiaohuojian8.com/"
           }
         ]
       },
@@ -426,6 +475,13 @@
                 "title": "Quora",
                 "icon": "https://logo.clearbit.com/www.quora.com",
                 "url": "https://www.quora.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722593266781,
+                "title": "36氪",
+                "icon": "https://logo.clearbit.com/www.36kr.com",
+                "url": "https://www.36kr.com/"
               }
             ]
           }
@@ -559,6 +615,20 @@
                 "title": "IP Address Lookup",
                 "icon": "https://logo.clearbit.com/www.iplocation.net",
                 "url": "https://www.iplocation.net/ip-lookup"
+              },
+              {
+                "type": "link",
+                "addDate": 1722593035082,
+                "title": "Squarespace | 几分钟内创建一个网站",
+                "icon": "https://logo.clearbit.com/www.squarespace.com",
+                "url": "https://www.squarespace.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722594007705,
+                "title": "WordPress.org",
+                "icon": "https://logo.clearbit.com/wordpress.org",
+                "url": "https://wordpress.org/"
               }
             ]
           },
@@ -834,6 +904,48 @@
             "title": "arXiv.org | 学术论文",
             "icon": "https://logo.clearbit.com/arxiv.org",
             "url": "https://arxiv.org/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1722583291101,
+            "title": "编程",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1722583298755,
+                "title": "web",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1722583309944,
+                    "title": "MDN | web 入门",
+                    "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                    "url": "https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1722584230990,
+                    "title": "python http.server | 本地服务器调试",
+                    "icon": "https://logo.clearbit.com/localhost",
+                    "url": "http://localhost:8000/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1722587677674,
+                    "title": "MDN | 学习 Web 开发",
+                    "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                    "url": "https://developer.mozilla.org/zh-CN/docs/Learn"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1722840325019,
+                    "title": "vue3编译原理揭秘",
+                    "icon": "https://logo.clearbit.com/vue-compiler.iamouyang.cn",
+                    "url": "https://vue-compiler.iamouyang.cn/"
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -1084,6 +1196,13 @@
                 "title": "低门槛、光速上手的AI绘图教程",
                 "icon": "https://logo.clearbit.com/rh0w322x8w.feishu.cn",
                 "url": "https://rh0w322x8w.feishu.cn/wiki/ZqlQw8qvjiOrD1k2uovcGOQ1nNb?utm_source=gapis.money"
+              },
+              {
+                "type": "link",
+                "addDate": 1722999350438,
+                "title": "How I Use \"AI\"",
+                "icon": "https://logo.clearbit.com/nicholas.carlini.com",
+                "url": "https://nicholas.carlini.com/writing/2024/how-i-use-ai.html"
               }
             ]
           },
@@ -1105,6 +1224,13 @@
                 "title": "嵌入投影仪 | 高维数据可视化",
                 "icon": "https://logo.clearbit.com/projector.tensorflow.org",
                 "url": "https://projector.tensorflow.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722942097112,
+                "title": "Download Llama",
+                "icon": "https://logo.clearbit.com/llama.meta.com",
+                "url": "https://llama.meta.com/llama-downloads/"
               }
             ]
           },
@@ -1226,6 +1352,20 @@
             "title": "Tensor.Art 吐司",
             "icon": "https://logo.clearbit.com/tusiart.com",
             "url": "https://tusiart.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722422714202,
+            "title": "WaytoAGI",
+            "icon": "https://logo.clearbit.com/www.waytoagi.com",
+            "url": "https://www.waytoagi.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722495296975,
+            "title": "AI Studio",
+            "icon": "https://logo.clearbit.com/ai.meta.com",
+            "url": "https://ai.meta.com/ai-studio/"
           }
         ]
       }
