@@ -307,6 +307,13 @@
                 "title": "Apktool | Apktool",
                 "icon": "https://logo.clearbit.com/apktool.org",
                 "url": "https://apktool.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723788844154,
+                "title": "Shields.io | Shields.io",
+                "icon": "https://logo.clearbit.com/shields.io",
+                "url": "https://shields.io/"
               }
             ]
           },
