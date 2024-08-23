@@ -1080,13 +1080,6 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1712643394269,
-                "title": "接口在线测试",
-                "icon": "https://logo.clearbit.com/tool.chinaz.com",
-                "url": "https://tool.chinaz.com/Tools/httptest.aspx"
-              },
-              {
-                "type": "link",
                 "addDate": 1716964036829,
                 "title": "站长工具",
                 "icon": "https://logo.clearbit.com/ping.chinaz.com",
@@ -1119,6 +1112,13 @@
                 "title": "Reqable | 先进API生产力工具",
                 "icon": "https://logo.clearbit.com/reqable.com",
                 "url": "https://reqable.com/zh-CN/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724404143730,
+                "title": "在线HTTP接口测试",
+                "icon": "https://logo.clearbit.com/www.sojson.com",
+                "url": "https://www.sojson.com/http/test.html"
               }
             ]
           },
