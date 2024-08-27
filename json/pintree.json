@@ -141,6 +141,13 @@
             "title": "蓝点网",
             "icon": "https://logo.clearbit.com/www.landiannews.com",
             "url": "https://www.landiannews.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724728163942,
+            "title": "探索互联网上高质量的内容",
+            "icon": "https://logo.clearbit.com/immersivetranslate.com",
+            "url": "https://immersivetranslate.com/zh-Hans/docs/sites"
           }
         ]
       },
@@ -421,6 +428,13 @@
             "title": "Dale 谈人工智能",
             "icon": "https://logo.clearbit.com/daleonai.com",
             "url": "https://daleonai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724742028004,
+            "title": "Trending | Bear Blog",
+            "icon": "https://logo.clearbit.com/bearblog.dev",
+            "url": "https://bearblog.dev/discover/"
           }
         ]
       },
@@ -1217,6 +1231,13 @@
                 "title": "Font Awesome",
                 "icon": "https://logo.clearbit.com/fontawesome.com",
                 "url": "https://fontawesome.com/icons"
+              },
+              {
+                "type": "link",
+                "addDate": 1724739243119,
+                "title": "RGB在线转换工具",
+                "icon": "https://logo.clearbit.com/www.sioe.cn",
+                "url": "https://www.sioe.cn/yingyong/yanse-rgb-16/"
               }
             ]
           },
@@ -1422,6 +1443,27 @@
             "title": "INDIE HACKERS | 独立开发者导航站",
             "icon": "https://logo.clearbit.com/www.indiehackers.site",
             "url": "https://www.indiehackers.site/zh/group/new"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1724741700679,
+        "title": "网站导航",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724741718508,
+            "title": "数字移民导航",
+            "icon": "https://logo.clearbit.com/www.shuziyimin.org",
+            "url": "https://www.shuziyimin.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724741749366,
+            "title": "Kadaza | 国外网站导航站",
+            "icon": "https://logo.clearbit.com/www.kadaza.com",
+            "url": "https://www.kadaza.com/"
           }
         ]
       }
