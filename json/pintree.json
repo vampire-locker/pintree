@@ -300,20 +300,34 @@
                 "title": "WordPress.org",
                 "icon": "https://logo.clearbit.com/wordpress.org",
                 "url": "https://wordpress.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725616960560,
+                "title": "SM.MS | 图床",
+                "icon": "https://logo.clearbit.com/sm.ms",
+                "url": "https://sm.ms/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725618118767,
+                "title": "不蒜子 - 极简网页计数器",
+                "icon": "https://logo.clearbit.com/busuanzi.ibruce.info",
+                "url": "https://busuanzi.ibruce.info/"
               }
             ]
           },
           {
             "type": "link",
             "addDate": 1714961817337,
-            "title": "道明五",
+            "title": "xiaoxin wu",
             "icon": "https://logo.clearbit.com/wuxx.top",
             "url": "https://wuxx.top/"
           },
           {
             "type": "link",
             "addDate": 1715743201551,
-            "title": "道明五 - 调试",
+            "title": "xiaoxin wu - 调试",
             "icon": "https://logo.clearbit.com/localhost",
             "url": "http://localhost:4000/"
           },
@@ -573,6 +587,13 @@
                     "url": "https://photobookdb.com/"
                   }
                 ]
+              },
+              {
+                "type": "link",
+                "addDate": 1725503029359,
+                "title": "Unsplash | 免费图片网站",
+                "icon": "https://logo.clearbit.com/unsplash.com",
+                "url": "https://unsplash.com/"
               }
             ]
           },
@@ -636,6 +657,20 @@
                 "title": "小专栏",
                 "icon": "https://logo.clearbit.com/xiaozhuanlan.com",
                 "url": "https://xiaozhuanlan.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1725524123776,
+            "title": "写作",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1725524097694,
+                "title": "Medium",
+                "icon": "https://logo.clearbit.com/medium.com",
+                "url": "https://medium.com/"
               }
             ]
           }
@@ -1079,6 +1114,34 @@
             "title": "ChatHub",
             "icon": "https://logo.clearbit.com/app.chathub.gg",
             "url": "https://app.chathub.gg/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725006001631,
+            "title": "Cursor",
+            "icon": "https://logo.clearbit.com/www.cursor.com",
+            "url": "https://www.cursor.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725431006862,
+            "title": "WildCard | 一分钟注册，轻松订阅海外软件服务",
+            "icon": "https://logo.clearbit.com/wildcard.com.cn",
+            "url": "https://wildcard.com.cn/service"
+          },
+          {
+            "type": "link",
+            "addDate": 1725508475712,
+            "title": "Models - Hugging Face",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/models?sort=trending"
+          },
+          {
+            "type": "link",
+            "addDate": 1725525214219,
+            "title": "Luma Dream Machine",
+            "icon": "https://logo.clearbit.com/lumalabs.ai",
+            "url": "https://lumalabs.ai/dream-machine"
           }
         ]
       },
@@ -1406,6 +1469,20 @@
                 "title": "Shields.io | Shields.io",
                 "icon": "https://logo.clearbit.com/shields.io",
                 "url": "https://shields.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725429205441,
+                "title": "豆包 MarsCode - 编程助手",
+                "icon": "https://logo.clearbit.com/www.marscode.cn",
+                "url": "https://www.marscode.cn/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1725504385385,
+                "title": "豆包 MarsCode - 工作台",
+                "icon": "https://logo.clearbit.com/www.marscode.cn",
+                "url": "https://www.marscode.cn/dashboard"
               }
             ]
           },
@@ -1450,6 +1527,20 @@
             "title": "INDIE HACKERS | 独立开发者导航站",
             "icon": "https://logo.clearbit.com/www.indiehackers.site",
             "url": "https://www.indiehackers.site/zh/group/new"
+          },
+          {
+            "type": "folder",
+            "addDate": 1725870020241,
+            "title": "安全工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1725869980926,
+                "title": "邮箱泄密检查",
+                "icon": "https://logo.clearbit.com/haveibeenpwned.com",
+                "url": "https://haveibeenpwned.com/"
+              }
+            ]
           }
         ]
       },
