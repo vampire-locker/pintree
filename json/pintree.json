@@ -148,6 +148,13 @@
             "title": "探索互联网上高质量的内容",
             "icon": "https://logo.clearbit.com/immersivetranslate.com",
             "url": "https://immersivetranslate.com/zh-Hans/docs/sites"
+          },
+          {
+            "type": "link",
+            "addDate": 1726026809769,
+            "title": "Hacker News | 黑客新闻",
+            "icon": "https://logo.clearbit.com/news.ycombinator.com",
+            "url": "https://news.ycombinator.com/"
           }
         ]
       },
@@ -314,6 +321,13 @@
                 "title": "不蒜子 - 极简网页计数器",
                 "icon": "https://logo.clearbit.com/busuanzi.ibruce.info",
                 "url": "https://busuanzi.ibruce.info/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726044893469,
+                "title": "Butterfly主题美化教程",
+                "icon": "https://logo.clearbit.com/butterfly.zhheo.com",
+                "url": "https://butterfly.zhheo.com/"
               }
             ]
           },
@@ -449,6 +463,13 @@
             "title": "Trending | Bear Blog",
             "icon": "https://logo.clearbit.com/bearblog.dev",
             "url": "https://bearblog.dev/discover/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726043477452,
+            "title": "Akilarの糖果屋 - Akilar.top",
+            "icon": "https://logo.clearbit.com/akilar.top",
+            "url": "https://akilar.top/"
           }
         ]
       },
@@ -930,6 +951,13 @@
                 "title": "How I Use \"AI\"",
                 "icon": "https://logo.clearbit.com/nicholas.carlini.com",
                 "url": "https://nicholas.carlini.com/writing/2024/how-i-use-ai.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1725935163267,
+                "title": "Gemini API 开发者文档",
+                "icon": "https://logo.clearbit.com/ai.google.dev",
+                "url": "https://ai.google.dev/gemini-api/docs?hl=zh-cn"
               }
             ]
           },
@@ -958,6 +986,20 @@
                 "title": "Download Llama",
                 "icon": "https://logo.clearbit.com/llama.meta.com",
                 "url": "https://llama.meta.com/llama-downloads/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726047914547,
+                "title": "token计算 | OpenAI 平台",
+                "icon": "https://logo.clearbit.com/platform.openai.com",
+                "url": "https://platform.openai.com/tokenizer"
+              },
+              {
+                "type": "link",
+                "addDate": 1726052161547,
+                "title": "TensorFlow | 端到端机器学习平台",
+                "icon": "https://logo.clearbit.com/www.tensorflow.org",
+                "url": "https://www.tensorflow.org/?hl=zh-cn"
               }
             ]
           },
@@ -1142,6 +1184,20 @@
             "title": "Luma Dream Machine",
             "icon": "https://logo.clearbit.com/lumalabs.ai",
             "url": "https://lumalabs.ai/dream-machine"
+          },
+          {
+            "type": "link",
+            "addDate": 1725938424991,
+            "title": "Google AI Studio",
+            "icon": "https://logo.clearbit.com/aistudio.google.com",
+            "url": "https://aistudio.google.com/app/prompts/new_chat?hl=zh-cn&_gl=1*155aafx*_ga*MTMyOTMwNzYzNC4xNzI1OTM0NzY1*_ga_P1DBVKWT6V*MTcyNTkzNDc2NC4xLjEuMTcyNTkzODMxOC4wLjAuMTAxMDc5NDY5"
+          },
+          {
+            "type": "link",
+            "addDate": 1725966076338,
+            "title": "Gemini Pro Chat",
+            "icon": "https://logo.clearbit.com/gprochat.com",
+            "url": "https://gprochat.com/"
           }
         ]
       },
