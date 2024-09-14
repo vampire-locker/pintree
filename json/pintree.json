@@ -626,13 +626,6 @@
             ]
           },
           {
-            "type": "link",
-            "addDate": 1721979202570,
-            "title": "arXiv.org | 学术论文",
-            "icon": "https://logo.clearbit.com/arxiv.org",
-            "url": "https://arxiv.org/"
-          },
-          {
             "type": "folder",
             "addDate": 1722583291101,
             "title": "编程",
@@ -701,6 +694,27 @@
                 "url": "https://medium.com/"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726306634825,
+            "title": "艺术",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1726306642188,
+                "title": "Google 艺术与文化",
+                "icon": "https://logo.clearbit.com/artsandculture.google.com",
+                "url": "https://artsandculture.google.com/explore?hl=zh-T"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1721979202570,
+            "title": "arXiv.org | 学术论文",
+            "icon": "https://logo.clearbit.com/arxiv.org",
+            "url": "https://arxiv.org/"
           }
         ]
       },
