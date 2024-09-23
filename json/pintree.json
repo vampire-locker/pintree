@@ -78,6 +78,20 @@
             "title": "Shadowrocket | 购买",
             "icon": "https://logo.clearbit.com/www.xiaohuojian8.com",
             "url": "https://www.xiaohuojian8.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726734941420,
+            "title": "Anna’s Archive | 安娜的档案，最大的图书仓库",
+            "icon": "https://logo.clearbit.com/annas-archive.org",
+            "url": "https://annas-archive.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726734978680,
+            "title": "Z-Library | 世界上最大的电子图书馆之一",
+            "icon": "https://logo.clearbit.com/zh.z-library.rs",
+            "url": "https://zh.z-library.rs/"
           }
         ]
       },
@@ -662,6 +676,34 @@
                     "title": "vue3编译原理揭秘",
                     "icon": "https://logo.clearbit.com/vue-compiler.iamouyang.cn",
                     "url": "https://vue-compiler.iamouyang.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726648260790,
+                    "title": "UILibHub | 精选最优质的 React、Vue UI、小程序组件库",
+                    "icon": "https://logo.clearbit.com/uilibhub.com",
+                    "url": "https://uilibhub.com/zh"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726650947007,
+                    "title": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
+                    "icon": "https://logo.clearbit.com/tailwindcss.com",
+                    "url": "https://tailwindcss.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726651114662,
+                    "title": "Tailwind CSS 中文网",
+                    "icon": "https://logo.clearbit.com/tailwind.nodejs.cn",
+                    "url": "https://tailwind.nodejs.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726803245245,
+                    "title": "Vue.js | 渐进式 JavaScript 框架",
+                    "icon": "https://logo.clearbit.com/cn.vuejs.org",
+                    "url": "https://cn.vuejs.org/"
                   }
                 ]
               },
@@ -951,6 +993,13 @@
                 "title": "Gemini API 开发者文档",
                 "icon": "https://logo.clearbit.com/ai.google.dev",
                 "url": "https://ai.google.dev/gemini-api/docs?hl=zh-cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1726818476816,
+                "title": "LLM: From Zero to Hero",
+                "icon": "https://logo.clearbit.com/waylandzhang.github.io",
+                "url": "https://waylandzhang.github.io/en/introduction.html"
               }
             ]
           },
@@ -1191,6 +1240,13 @@
             "title": "Gemini Pro Chat",
             "icon": "https://logo.clearbit.com/gprochat.com",
             "url": "https://gprochat.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727075878363,
+            "title": "NotebookLM",
+            "icon": "https://logo.clearbit.com/notebooklm.google.com",
+            "url": "https://notebooklm.google.com/"
           }
         ]
       },
@@ -1308,6 +1364,13 @@
                 "title": "EasySpider | 无代码可视化爬虫",
                 "icon": "https://logo.clearbit.com/www.easyspider.cn",
                 "url": "https://www.easyspider.cn/index_mobile.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1726736421265,
+                "title": "Google 云端硬盘",
+                "icon": "https://logo.clearbit.com/drive.google.com",
+                "url": "https://drive.google.com/drive/home"
               }
             ]
           },
