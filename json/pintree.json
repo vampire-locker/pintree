@@ -1247,6 +1247,20 @@
             "title": "NotebookLM",
             "icon": "https://logo.clearbit.com/notebooklm.google.com",
             "url": "https://notebooklm.google.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727420631894,
+            "title": "Tripo AI | 用文字或图片免费生成3D模型",
+            "icon": "https://logo.clearbit.com/www.tripo3d.ai",
+            "url": "https://www.tripo3d.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729593927218,
+            "title": "海螺AI",
+            "icon": "https://logo.clearbit.com/hailuoai.com",
+            "url": "https://hailuoai.com/"
           }
         ]
       },
