@@ -720,6 +720,20 @@
                 "title": "小专栏",
                 "icon": "https://logo.clearbit.com/xiaozhuanlan.com",
                 "url": "https://xiaozhuanlan.com/"
+              },
+              {
+                "type": "folder",
+                "addDate": 1733194017360,
+                "title": "Java",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1733193970647,
+                    "title": "Java 面试指南 | JavaGuide",
+                    "icon": "https://logo.clearbit.com/javaguide.cn",
+                    "url": "https://javaguide.cn/"
+                  }
+                ]
               }
             ]
           },
@@ -1261,6 +1275,13 @@
             "title": "海螺AI",
             "icon": "https://logo.clearbit.com/hailuoai.com",
             "url": "https://hailuoai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729759737814,
+            "title": "XiaoHu.AI学院",
+            "icon": "https://logo.clearbit.com/xiaohu.ai",
+            "url": "https://xiaohu.ai/"
           }
         ]
       },
