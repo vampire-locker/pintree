@@ -169,6 +169,27 @@
             "title": "Hacker News | 黑客新闻",
             "icon": "https://logo.clearbit.com/news.ycombinator.com",
             "url": "https://news.ycombinator.com/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1733387707013,
+            "title": "科技",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1733387690355,
+                "title": "Engadget | Technology News & Reviews",
+                "icon": "https://logo.clearbit.com/www.engadget.com",
+                "url": "https://www.engadget.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1733713884166,
+            "title": "天涯 - 首页",
+            "icon": "https://logo.clearbit.com/tianya.my",
+            "url": "https://tianya.my/bbs/"
           }
         ]
       },
@@ -704,22 +725,29 @@
                     "title": "Vue.js | 渐进式 JavaScript 框架",
                     "icon": "https://logo.clearbit.com/cn.vuejs.org",
                     "url": "https://cn.vuejs.org/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1734663606101,
+                    "title": "Ant Design Vue | 组件库",
+                    "icon": "https://logo.clearbit.com/antdv.com",
+                    "url": "https://antdv.com/docs/vue/getting-started-cn"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1734686293906,
+                    "title": "Home | Vue CLI",
+                    "icon": "https://logo.clearbit.com/cli.vuejs.org",
+                    "url": "https://cli.vuejs.org/zh/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1734949636567,
+                    "title": "axios | axios中文网",
+                    "icon": "https://logo.clearbit.com/www.axios-js.com",
+                    "url": "http://www.axios-js.com/"
                   }
                 ]
-              },
-              {
-                "type": "link",
-                "addDate": 1724294401002,
-                "title": "力扣 (LeetCode)",
-                "icon": "https://logo.clearbit.com/leetcode.cn",
-                "url": "https://leetcode.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1724298510472,
-                "title": "小专栏",
-                "icon": "https://logo.clearbit.com/xiaozhuanlan.com",
-                "url": "https://xiaozhuanlan.com/"
               },
               {
                 "type": "folder",
@@ -732,6 +760,48 @@
                     "title": "Java 面试指南 | JavaGuide",
                     "icon": "https://logo.clearbit.com/javaguide.cn",
                     "url": "https://javaguide.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1734587547191,
+                "title": "iOS",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1734587515233,
+                    "title": "Kodeco | 面向初学者的 iOS 和 SwiftUI",
+                    "icon": "https://logo.clearbit.com/www.kodeco.com",
+                    "url": "https://www.kodeco.com/ios/paths/learn"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1734684937801,
+                "title": "平台",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1724294401002,
+                    "title": "力扣 (LeetCode)",
+                    "icon": "https://logo.clearbit.com/leetcode.cn",
+                    "url": "https://leetcode.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1724298510472,
+                    "title": "小专栏",
+                    "icon": "https://logo.clearbit.com/xiaozhuanlan.com",
+                    "url": "https://xiaozhuanlan.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1734684961383,
+                    "title": "编程导航 - 程序员一站式编程学习交流社区，做您编程学习路上的导航员",
+                    "icon": "https://logo.clearbit.com/www.codefather.cn",
+                    "url": "https://www.codefather.cn/"
                   }
                 ]
               }
@@ -977,6 +1047,76 @@
         "children": [
           {
             "type": "folder",
+            "addDate": 1735270741798,
+            "title": "问答",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1712049159000,
+                "title": "ChatGPT | OpenAI 旗下",
+                "icon": "https://logo.clearbit.com/chat.openai.com",
+                "url": "https://chat.openai.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1712049276000,
+                "title": "Kimi",
+                "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                "url": "https://kimi.moonshot.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1712049216000,
+                "title": "通义千问 | 阿里旗下",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee13EgYnz"
+              },
+              {
+                "type": "link",
+                "addDate": 1712049242000,
+                "title": "文心一言 | 百度旗下",
+                "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                "url": "https://yiyan.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1712049348000,
+                "title": "txyz | 论文AI",
+                "icon": "https://logo.clearbit.com/app.txyz.ai",
+                "url": "https://app.txyz.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1720418964774,
+                "title": "豆包 | 字节旗下 AI 智能助手",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733726797315,
+                "title": "EasyChat",
+                "icon": "https://logo.clearbit.com/origin.eqing.tech",
+                "url": "https://origin.eqing.tech/#/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1734591773713,
+                "title": "AQChat",
+                "icon": "https://logo.clearbit.com/aqchat.run",
+                "url": "https://aqchat.run/"
+              },
+              {
+                "type": "link",
+                "addDate": 1735270707633,
+                "title": "ChatK",
+                "icon": "https://logo.clearbit.com/chat3.oaichat.cc",
+                "url": "https://chat3.oaichat.cc/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
             "addDate": 1721879741620,
             "title": "学习",
             "children": [
@@ -1056,6 +1196,27 @@
                 "title": "TensorFlow | 端到端机器学习平台",
                 "icon": "https://logo.clearbit.com/www.tensorflow.org",
                 "url": "https://www.tensorflow.org/?hl=zh-cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1733714100701,
+                "title": "Ollama",
+                "icon": "https://logo.clearbit.com/ollama.com",
+                "url": "https://ollama.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733714166195,
+                "title": "Hugging Face – The AI community building the future.",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733913201959,
+                "title": "AnythingLLM | The all-in-one AI application for everyone",
+                "icon": "https://logo.clearbit.com/anythingllm.com",
+                "url": "https://anythingllm.com/"
               }
             ]
           },
@@ -1079,41 +1240,6 @@
                 "url": "https://docs.midjourney.com/"
               }
             ]
-          },
-          {
-            "type": "link",
-            "addDate": 1712049159000,
-            "title": "ChatGPT | OpenAI 旗下",
-            "icon": "https://logo.clearbit.com/chat.openai.com",
-            "url": "https://chat.openai.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1712049276000,
-            "title": "Kimi",
-            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-            "url": "https://kimi.moonshot.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1712049216000,
-            "title": "通义千问 | 阿里旗下",
-            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-            "url": "https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee13EgYnz"
-          },
-          {
-            "type": "link",
-            "addDate": 1712049242000,
-            "title": "文心一言 | 百度旗下",
-            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-            "url": "https://yiyan.baidu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1712049348000,
-            "title": "txyz | 论文AI",
-            "icon": "https://logo.clearbit.com/app.txyz.ai",
-            "url": "https://app.txyz.ai/"
           },
           {
             "type": "link",
@@ -1163,13 +1289,6 @@
             "title": "AI图像增强器",
             "icon": "https://logo.clearbit.com/mejorarimagen.org",
             "url": "https://mejorarimagen.org/zh"
-          },
-          {
-            "type": "link",
-            "addDate": 1720418964774,
-            "title": "豆包 | 字节旗下 AI 智能助手",
-            "icon": "https://logo.clearbit.com/www.doubao.com",
-            "url": "https://www.doubao.com/chat/"
           },
           {
             "type": "link",
@@ -1282,6 +1401,34 @@
             "title": "XiaoHu.AI学院",
             "icon": "https://logo.clearbit.com/xiaohu.ai",
             "url": "https://xiaohu.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733729299381,
+            "title": "LobeChat",
+            "icon": "https://logo.clearbit.com/chat-preview.lobehub.com",
+            "url": "https://chat-preview.lobehub.com/welcome"
+          },
+          {
+            "type": "link",
+            "addDate": 1733735085271,
+            "title": "即梦AI - 一站式AI创作平台",
+            "icon": "https://logo.clearbit.com/jimeng.jianying.com",
+            "url": "https://jimeng.jianying.com/ai-tool/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1733798852855,
+            "title": "Open WebUI - 本地部署",
+            "icon": "https://logo.clearbit.com/localhost",
+            "url": "http://localhost:3000/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733819778003,
+            "title": "Open - WebUI 社区",
+            "icon": "https://logo.clearbit.com/openwebui.com",
+            "url": "https://openwebui.com/"
           }
         ]
       },
@@ -1406,6 +1553,13 @@
                 "title": "Google 云端硬盘",
                 "icon": "https://logo.clearbit.com/drive.google.com",
                 "url": "https://drive.google.com/drive/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1734057646407,
+                "title": "时间戳",
+                "icon": "https://logo.clearbit.com/tool.lu",
+                "url": "https://tool.lu/timestamp/"
               }
             ]
           },
@@ -1630,6 +1784,27 @@
                 "title": "豆包 MarsCode - 工作台",
                 "icon": "https://logo.clearbit.com/www.marscode.cn",
                 "url": "https://www.marscode.cn/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1734594588791,
+                "title": "代码小抄 | 简单易用的代码分享工具",
+                "icon": "https://logo.clearbit.com/www.codecopy.cn",
+                "url": "https://www.codecopy.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1734600547100,
+                "title": "Codeshare | 在浏览器中与开发人员实时共享代码",
+                "icon": "https://logo.clearbit.com/codeshare.io",
+                "url": "https://codeshare.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1734600592944,
+                "title": "Gist | 代码共享",
+                "icon": "https://logo.clearbit.com/gist.github.com",
+                "url": "https://gist.github.com/"
               }
             ]
           },
@@ -1707,6 +1882,27 @@
                 "title": "QQ邮箱",
                 "icon": "https://logo.clearbit.com/mail.qq.com",
                 "url": "https://mail.qq.com/cgi-bin/frame_html?sid=96ELp4Q4yAytCjJU&r=550899ed1f8835bf69c31f0263fb2ac9&lang=zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1734424654475,
+                "title": "临时邮箱 - 一次性临时电子邮件服务",
+                "icon": "https://logo.clearbit.com/mail.cx",
+                "url": "https://mail.cx/zh/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1734433995323,
+            "title": "编辑工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1734433958576,
+                "title": "Markdown | 让排版变 Nice",
+                "icon": "https://logo.clearbit.com/editor.mdnice.com",
+                "url": "https://editor.mdnice.com/"
               }
             ]
           },
